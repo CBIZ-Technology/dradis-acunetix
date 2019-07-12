@@ -1,6 +1,8 @@
+evidence.name
 evidence.details
 evidence.affects
 evidence.parameter
+evidence.response
 evidence.aop_source_file
 evidence.aop_source_line
 evidence.aop_additional
